@@ -5,3 +5,6 @@ Additionally, introductory steps for running a machine learning model based on l
 The V8_data file also includes variables such as daily prices for crude oil, gold, Tesla, and BYD, which could be used for both simple and multivariate regression tests.
 Ultimately, the findings highlight a potential path forward in understanding fluctuations in copper exchange prices using the share prices of major copper mining companies. 
 Incorporating additional variables, such as mine ore quality data, mine closures, and company-specific governance events, could be further developed in efforts to forecast copper exchange prices into the future.
+
+
+![image](https://github.com/user-attachments/assets/15c66fc8-9aae-4b71-9693-cd452399537a)
